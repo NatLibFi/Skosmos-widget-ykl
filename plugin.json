@@ -1,0 +1,6 @@
+{
+    "css": ["ykl-plugin.css"],
+    "js": ["ykl-plugin.js"],
+    "callback": ["yklWarning"],
+    "templates": ["template.html"]
+}
